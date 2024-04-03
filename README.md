@@ -1,10 +1,21 @@
 ### Hey everyone, I’m Mia! 👋
-After pursuing my passion for storytelling as a non-fiction editor, I decided to embark on a new path in 2023. Through enrollment in a Full-Stack Bootcamp by SuperCode and extensive autodidactic learning I turned my love for creative thinking and problem-solving into a career as a front-end developer. While this journey sometimes resembled a rollercoaster ride, I am incredibly grateful that I started it. As someone inherently curious and eager to learn, experiencing this impressive learning curve over the last months has been amazing. I love that I am constantly progressing and expanding my skill set.
+After pursuing my passion for storytelling as a non-fiction editor, I decided to embark on a new path in 2023. Through enrollment in a Full-Stack Bootcamp by SuperCode and extensive autodidactic learning I turned my love for creative thinking and problem-solving into a career as a front-end developer. 
+<br>
+While this journey sometimes resembled a rollercoaster ride, I am incredibly grateful that I started it. As someone inherently curious and eager to learn, experiencing the impressive learning curve over the last months has been amazing. I love that I am constantly progressing and expanding my skill set.
+<br>
+<br>
+
 
 <a href="https://www.linkedin.com/in/ann-marie-mia-mecklenburg-99756016a/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+</a>        
+<a href="https://github.com/MiaMarmeladenbrot" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
 </a>
+
 <br>
+<br>
+
 
 ![React](https://img.shields.io/badge/-React-09131B?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
