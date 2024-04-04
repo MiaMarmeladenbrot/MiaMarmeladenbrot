@@ -1,7 +1,7 @@
 ### Hey everyone, I’m Mia! 👋
-After pursuing my passion for storytelling as a non-fiction editor, I decided to embark on a new path in 2023. Through enrollment in a Full-Stack Bootcamp by <a href="https://www.super-code.de/">SuperCode</a> and extensive autodidactic learning I turned my love for creative thinking and problem-solving into a career as a front-end developer. 
+After pursuing my passion for storytelling as a non-fiction editor, I decided to embark on a new path in 2023. Through enrollment in a Full-Stack Bootcamp by <a href="https://www.super-code.de/">SuperCode</a> and extensive autodidactic learning I am turning my love for creative thinking and problem-solving into a career as a front-end developer. 
 <br>
-While this journey sometimes felt like a rollercoaster ride, I am incredibly grateful that I started it. As someone inherently curious and eager to learn, experiencing the impressive learning curve over the past months has been amazing. I love that I am constantly progressing and expanding my skill set.
+While this journey sometimes feels like a rollercoaster ride, I am incredibly grateful that I started it. As someone inherently curious and eager to learn, experiencing the learning curve over the past months has been impressive. I love that I am constantly progressing and expanding my skill set.
 
 
 ### Socials
