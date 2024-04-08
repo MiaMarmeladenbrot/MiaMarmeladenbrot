@@ -28,6 +28,6 @@ While this journey sometimes feels like a rollercoaster ride, I am incredibly gr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miamarmeladenbrot&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-### GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miamarmeladenbrot&show_icons=true&theme=radical)
+<!--### GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miamarmeladenbrot&show_icons=true&theme=radical) -->
 
