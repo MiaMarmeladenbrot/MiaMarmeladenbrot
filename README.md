@@ -23,12 +23,19 @@ While this journey sometimes feels like a rollercoaster ride, I am incredibly gr
 ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=%23880000)
 <br/>
 ![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-09131B?style=for-the-badge&logo=visual%20studio&logoColor=005BA4)
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-09131B?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-09131B?style=for-the-badge&logo=Render&logoColor=white)
+<br/>
+![Cloudinary](https://img.shields.io/badge/Cloudinary-black?style=for-the-badge&logo=Cloudinary&logoColor=%2346B2E8)
+![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=Mui&logoColor=%230081CB)
+![Google Places Api](https://img.shields.io/badge/Google%20Places%20API-black?style=for-the-badge&logo=Google&logoColor=%234285F4)
+![Google Geocoding Api](https://img.shields.io/badge/Google%20Geocoding%20API-black?style=for-the-badge&logo=Google&logoColor=%234285F4))
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miamarmeladenbrot&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
