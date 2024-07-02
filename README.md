@@ -34,7 +34,7 @@ While this journey sometimes feels like a rollercoaster ride, I am incredibly gr
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-black?style=for-the-badge&logo=Cloudinary&logoColor=%2346B2E8)
 ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=Mui&logoColor=%230081CB)
 ![Google Places Api](https://img.shields.io/badge/Google%20Places%20API-black?style=for-the-badge&logo=Google&logoColor=%234285F4)
-![Google Geocoding Api](https://img.shields.io/badge/Google%20Geocoding%20API-black?style=for-the-badge&logo=Google&logoColor=%234285F4))
+![Google Geocoding Api](https://img.shields.io/badge/Google%20Geocoding%20API-black?style=for-the-badge&logo=Google&logoColor=%234285F4)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miamarmeladenbrot&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
